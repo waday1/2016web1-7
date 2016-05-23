@@ -9,10 +9,24 @@ body{
     background-color:#aacf53;
 }
 header{
-    background-color:#00cf54;
+    background-color:#fef4f4;
 }
 
 #main1{
      background-color:#b7282e;
+     width:500px;
+}
+
+#main2{
+     background-color:#1e50a2;
+     width:500px;
+}
+
+aside{
+    background-color:#f08300;
+}
+
+footer{
+    background-color:#fdeff2;
 }
 
