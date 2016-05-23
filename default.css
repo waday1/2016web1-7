@@ -14,7 +14,7 @@ header{
 }
 .box{ 
     background-color:#0d0015;
-    color:#460e44;
+    color:white;
     width:240px;
     height:80px;
     margin:5px;
@@ -22,7 +22,7 @@ header{
 }
 
 #main{
-    background-color:white;
+    background-color:#460e44;
     width:calc(100%-200px);
     min-width:500px;
     float:left;
