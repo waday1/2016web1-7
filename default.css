@@ -10,7 +10,8 @@ body{
 }
 
 header{
-    background-color:#fef4f4;
+    background-color:#460e44;
+    color:white;
 }
 .box{ 
     background-color:#0d0015;
@@ -23,14 +24,10 @@ header{
 }
 
 #main{
-    background-color:#460e44;
+    background-color:#fef4f4;
     width:calc(100%-200px);
     min-width:500px;
     float:left;
-}
-
-<h1>{
-    color:white;
 }
 
 #main1{
