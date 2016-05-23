@@ -7,11 +7,16 @@
  
 body{
     background-color:#aacf53;
+    margin:48px 0 0 0;
 } 
 
 header{
     background-color:#460e44;
     color:white;
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
 }
 .box{ 
     background-color:#0d0015;
@@ -46,6 +51,9 @@ aside{
     background-color:#f08300;
     width:200px; 
     float:right;
+    position:relative;
+    top:20px;
+    right:10px;
 }
 
 footer{
