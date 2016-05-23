@@ -8,25 +8,38 @@
 body{
     background-color:#aacf53;
 }
+
 header{
     background-color:#fef4f4;
+}
+
+#main{
+    background-color:white;
+    width:calc(100%-200px);
+    min-width:500px;
+    float:left;
 }
 
 #main1{
      background-color:#b7282e;
      width:500px;
+     float:left;
 }
 
 #main2{
      background-color:#1e50a2;
      width:500px;
+      float:left;
 }
 
 aside{
     background-color:#f08300;
+    width:200px; 
+    float:right;
 }
 
 footer{
     background-color:#fdeff2;
+     clear:both;
 }
 
